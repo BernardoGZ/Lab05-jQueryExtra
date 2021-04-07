@@ -1,6 +1,6 @@
 //Bernardo Garcia Zermeno
 //A00570682
-//Laboratory #4: To Do List, 1st practice of Javascript basic functions
+//Laboratory #5: To Do List, using jQuery
 
 //Declare variables for buttons and managing areas
 var btnPost = $('.submitButton');
